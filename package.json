@@ -1,0 +1,21 @@
+{
+  "name": "node-hero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test",
+    "your-custom-script": "echo npm"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "lodash": "^4.11.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
